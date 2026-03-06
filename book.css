@@ -1,0 +1,9 @@
+#content {
+    max-width: 720px;
+    margin: 40px auto;
+    padding: 0 20px;
+    line-height: 1.8;
+    font-size: 1.05rem;
+    min-height: 60vh;
+    transition: opacity 0.2s ease;
+}
