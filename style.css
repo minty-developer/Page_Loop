@@ -1,8 +1,7 @@
 * {
     margin:0;
     padding:0;
-    text-align: center;
-    text-justify: center;
+    text-align: justify;
 }
 
 body {
@@ -48,7 +47,7 @@ h1 {
 }
 
 .book-card {
-    width: 80vw;
+    width: 98vw;
     min-height: 120px;
     padding: 16px;
     background: linear-gradient(
@@ -62,6 +61,8 @@ h1 {
     cursor: pointer;
     user-select: none;
     border: 1px solid rgba(0, 0, 0, 0.06);
+    text-align: center;
+    text-justify: center;
 }
 
 
