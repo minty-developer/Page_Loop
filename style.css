@@ -5,6 +5,8 @@
 
 body {
     min-height: 100vh;
+    text-align: center;
+    text-justify: center;
 }
 
 header {
@@ -58,6 +60,8 @@ h1 {
     cursor: pointer;
     user-select: none;
     border: 1px solid rgba(0, 0, 0, 0.06);
+    text-align: center;
+    text-justify: center;
 }
 
 
